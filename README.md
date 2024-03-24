@@ -1,4 +1,4 @@
-## here's a brief synthesis of what I've learned:
+## Here's a brief synthesis of what I've learned:
 
 Understanding of PyTorch: Through implementing various neural network architectures such as CNN, Faster R-CNN, and ViT using PyTorch, I gained a deeper understanding of how to work with PyTorch, including defining models, optimizing parameters, and training models.
 
